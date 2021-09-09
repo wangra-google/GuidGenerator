@@ -1,0 +1,15 @@
+D:\GitHub\GuidGenerator\bin\Debug\netcoreapp3.1\GuidGenerator.exe
+D:\GitHub\GuidGenerator\bin\Debug\netcoreapp3.1\GuidGenerator.deps.json
+D:\GitHub\GuidGenerator\bin\Debug\netcoreapp3.1\GuidGenerator.runtimeconfig.json
+D:\GitHub\GuidGenerator\bin\Debug\netcoreapp3.1\GuidGenerator.runtimeconfig.dev.json
+D:\GitHub\GuidGenerator\bin\Debug\netcoreapp3.1\GuidGenerator.dll
+D:\GitHub\GuidGenerator\bin\Debug\netcoreapp3.1\GuidGenerator.pdb
+D:\GitHub\GuidGenerator\obj\Debug\netcoreapp3.1\GuidGenerator.csprojAssemblyReference.cache
+D:\GitHub\GuidGenerator\obj\Debug\netcoreapp3.1\GuidGenerator.AssemblyInfoInputs.cache
+D:\GitHub\GuidGenerator\obj\Debug\netcoreapp3.1\GuidGenerator.AssemblyInfo.cs
+D:\GitHub\GuidGenerator\obj\Debug\netcoreapp3.1\GuidGenerator.csproj.CoreCompileInputs.cache
+D:\GitHub\GuidGenerator\obj\Debug\netcoreapp3.1\GuidGenerator.dll
+D:\GitHub\GuidGenerator\obj\Debug\netcoreapp3.1\GuidGenerator.pdb
+D:\GitHub\GuidGenerator\obj\Debug\netcoreapp3.1\GuidGenerator.genruntimeconfig.cache
+D:\GitHub\GuidGenerator\obj\Debug\netcoreapp3.1\GuidGenerator.Form1.resources
+D:\GitHub\GuidGenerator\obj\Debug\netcoreapp3.1\GuidGenerator.csproj.GenerateResource.cache
